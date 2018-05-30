@@ -5,13 +5,16 @@ using UnityEngine;
 public class Movedor : MonoBehaviour {
 	RectTransform tra;
 	int senti;
-	System.Random random;
+	//System.Random random;
 
 	// Use this for initialization
 	void Start () {
 		tra = this.GetComponent<RectTransform>();
-		random = new System.Random();
-		switch(random.Next(2)){
+		tra.SetAsFirstSibling();
+		//random = new System.Random();
+
+		switch (CreaFondo.random.Next(2))
+		{
 			case 0:
 				senti = 10;
 				break;
@@ -19,8 +22,7 @@ public class Movedor : MonoBehaviour {
 				senti = -10;
 				break;
 		}
-
-	}
+	}   
 	
 	// Update is called once per frame
 	void Update () {

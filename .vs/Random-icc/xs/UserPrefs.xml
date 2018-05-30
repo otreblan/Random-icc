@@ -1,7 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Movedor.cs">
     <Files>
-      <File FileName="Assets/scripts/Movedor.cs" Line="12" Column="44" />
+      <File FileName="Assets/scripts/Movedor.cs" Line="23" Column="11" />
+      <File FileName="Assets/scripts/CreaFondo.cs" Line="6" Column="15" />
+      <File FileName="Assets/scripts/MoveDebug.cs" Line="18" Column="26" />
+      <File FileName="Assets/scripts/rota.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
