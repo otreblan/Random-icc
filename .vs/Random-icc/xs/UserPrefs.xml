@@ -1,10 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Movedor.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/creaFondo.cs">
     <Files>
-      <File FileName="Assets/scripts/Movedor.cs" Line="23" Column="11" />
-      <File FileName="Assets/scripts/CreaFondo.cs" Line="6" Column="15" />
       <File FileName="Assets/scripts/MoveDebug.cs" Line="18" Column="26" />
-      <File FileName="Assets/scripts/rota.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/rota.cs" Line="30" Column="5" />
+      <File FileName="Assets/scripts/Posicionador.cs" Line="18" Column="42" />
+      <File FileName="Assets/scripts/VibraScr.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/creaFondo.cs" Line="18" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

@@ -21,8 +21,9 @@ GameObject:
   - component: {fileID: 224475694704469546}
   - component: {fileID: 222548638641520156}
   - component: {fileID: 114715029499674684}
-  - component: {fileID: 114082475201533756}
   - component: {fileID: 114653539179499176}
+  - component: {fileID: 95079942619189592}
+  - component: {fileID: 114450783163038722}
   m_Layer: 5
   m_Name: Image
   m_TagString: Untagged
@@ -30,7 +31,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &114082475201533756
+--- !u!95 &95079942619189592
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1412718967350360}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: fae4f7be8b1f84d31b9eb4c6cef6e133, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &114450783163038722
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -38,7 +57,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1412718967350360}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 00d05dfeddafe4e32a1c6898c669bc60, type: 3}
+  m_Script: {fileID: 11500000, guid: a5dfe49ceac21404896d45945a72299e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &114653539179499176
@@ -91,15 +110,15 @@ RectTransform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1412718967350360}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 10.666674}
-  m_LocalScale: {x: 1.0666667, y: 1.0666667, z: 1.0666667}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.1, y: 0.1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.6414533, y: 0.027421534}
-  m_AnchorMax: {x: 0.9431511, y: 0.2262646}
-  m_AnchoredPosition: {x: 0.1000061, y: 0}
-  m_SizeDelta: {x: -4.25, y: -3.25}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 1072, y: 1288}
   m_Pivot: {x: 0.5, y: 0.5}
