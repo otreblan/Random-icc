@@ -12,5 +12,5 @@ Hacer que no se demore tanto en iniciar o poner una pantalla de carga.
 Optimizar todo.
 Hacer más loopeable la música de fondo.                                                                                         
 Poner los créditos de la música de fondo.                                                                                       
-Que no solo yo (Alberto) haga todos los cambios al proyecto.                                                                   
+Que no solo yo (Alberto) haga todos los cambios al proyecto. JUAN HAZ ALGo!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!                                                                  
 Poner más ideas.                                                                                                               
