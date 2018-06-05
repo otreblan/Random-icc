@@ -314,6 +314,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int common_open_on_phone=0x7f04000f;
         public static final int common_signin_button_text=0x7f040010;
         public static final int common_signin_button_text_long=0x7f040011;
+        public static final int default_web_client_id=0x7f040014;
+        public static final int firebase_database_url=0x7f040015;
+        public static final int gcm_defaultSenderId=0x7f040016;
+        public static final int google_api_key=0x7f040017;
+        public static final int google_app_id=0x7f040018;
+        public static final int google_crash_reporting_api_key=0x7f040019;
+        public static final int google_storage_bucket=0x7f04001a;
+        public static final int project_id=0x7f04001b;
         public static final int status_bar_notification_info_overflow=0x7f040012;
     }
     public static final class style {

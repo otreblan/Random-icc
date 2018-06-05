@@ -67,7 +67,7 @@ android {
 			abiFilters 'armeabi-v7a', 'x86'
 		}
 		versionCode	1
-		versionName	'0.1.016'
+		versionName	'0.1.017'
 	}
 
 	lintOptions {
@@ -75,7 +75,7 @@ android {
 	}
 
 	aaptOptions {
-		noCompress '.unity3d', '.ress', '.resource', '.obb'
+		noCompress '.unity3d', '.ress', '.resource', '.obb','google-services-desktop.json'
 	}
 
 
