@@ -490,3 +490,4 @@
 /home/otrebla/git/Random-icc/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
 /home/otrebla/git/Random-icc/obj/Debug/Assembly-CSharp.dll
 /home/otrebla/git/Random-icc/obj/Debug/Assembly-CSharp.pdb
+/home/otrebla/git/Random-icc/Temp/bin/Debug/Firebase.Analytics.dll

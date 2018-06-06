@@ -7,6 +7,7 @@ public class rota : MonoBehaviour {
 	public float rotVel;
 	public bool invertido;
 
+
 	RectTransform rotador;
 	float pulsos;//esto podría haber sido público y modíficado con una animación para evitar el overflow
 	Quaternion rotaAng;
