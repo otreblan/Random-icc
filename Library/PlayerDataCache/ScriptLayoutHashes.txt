@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-/home/otrebla/git/Random-icc/Apks/pruebas00.17.apk
+/home/otrebla/git/Random-icc/Apks/pruebas00.19.apk
 SceneListBegin?
 Assets/Scenes/SampleScene.unity
 SceneListEnd?
@@ -150,4 +150,5 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Posicionador
+6db0440ca685cb789345ee42eeb4c639 Assembly-CSharp.dll:.cargaScr
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.MoveDebug

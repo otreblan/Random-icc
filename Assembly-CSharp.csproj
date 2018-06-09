@@ -261,6 +261,9 @@
  <Reference Include="Firebase.Storage">
  <HintPath>/home/otrebla/git/Random-icc/Assets/Firebase/Plugins/Firebase.Storage.dll</HintPath>
  </Reference>
+ <Reference Include="Firebase.Analytics">
+ <HintPath>/home/otrebla/git/Random-icc/Assets/Firebase/Plugins/Firebase.Analytics.dll</HintPath>
+ </Reference>
  <Reference Include="Firebase.App">
  <HintPath>/home/otrebla/git/Random-icc/Assets/Firebase/Plugins/Firebase.App.dll</HintPath>
  </Reference>
@@ -290,9 +293,6 @@
  </Reference>
  <Reference Include="UnityEngine.StandardEvents">
  <HintPath>/home/otrebla/.config/unity3d/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
- </Reference>
- <Reference Include="Firebase.Analytics">
- <HintPath>/home/otrebla/git/Random-icc/Assets/Firebase/Plugins/Firebase.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>/home/otrebla/Unity-2018.1.0f2/Editor/Data/MonoBleedingEdge/lib/mono/2.0-api/mscorlib.dll</HintPath>
