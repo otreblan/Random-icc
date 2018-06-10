@@ -10,7 +10,7 @@ public class cargaScr : MonoBehaviour {
 	public Image image;
 	//public Sprite a;
 	//string ruta;
-
+	Queue<Sprite> memes;
     
 	Firebase.Storage.FirebaseStorage storage;
 	Firebase.Storage.StorageReference imaReference;
@@ -22,12 +22,14 @@ public class cargaScr : MonoBehaviour {
 
 	// Use this for initialization
 	IEnumerator Start () {
-	//	ruta = "jar:file://" + Application.dataPath + "!/assets/" + "algo.jpg";
+		//	ruta = "jar:file://" + Application.dataPath + "!/assets/" + "algo.jpg";
+		memes = new Queue<Sprite>(10);
+
 		storage = Firebase.Storage.FirebaseStorage.DefaultInstance;
 		imaReference = storage.GetReferenceFromUrl("gs://randomapp-dd930.appspot.com/Imagenes");
 		vidReference = storage.GetReferenceFromUrl("gs://randomapp-dd930.appspot.com/Videos");
 
-        imaReferencePrue = storage.GetReference("Imagenes/32349861_238186500260682_1163204644155949056_n.jpg");
+		imaReferencePrue = imaReference.Child("wrn8vj4j72y01.jpg");
 
         //imaReferencePrue.GetFileAsync(ruta);//está incompleto, creo
 		// Fetch the download URL
@@ -44,12 +46,18 @@ public class cargaScr : MonoBehaviour {
 		yield return new WaitUntil(() => wWW != null);
 		yield return new WaitUntil(() => wWW.isDone);
 
-		image.sprite = Sprite.Create(wWW.texture, new Rect(0 ,0 ,wWW.texture.width, wWW.texture.height), new Vector2(0.0f, 0.0f));
+		memes.Enqueue(Sprite.Create(wWW.texture, new Rect(0 ,0 ,wWW.texture.width, wWW.texture.height), new Vector2(0.0f, 0.0f)));
 
        
 	}
 	// Update is called once per frame
-	void Update () {
-		
+	public void memeSiguente(){
+		StartCoroutine(cargaMeme());
+	}
+	IEnumerator cargaMeme(){
+		//print(1);
+		yield return new WaitUntil(() => memes.Count > 0);
+		//print(2);
+        image.sprite = memes.Dequeue();
 	}
 }
