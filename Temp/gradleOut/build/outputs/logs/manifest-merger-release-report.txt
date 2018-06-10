@@ -1,0 +1,352 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:2:70-98
+		INJECTED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:2:99-145
+	xmlns:android
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:2:146-186
+supports-screens
+ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:3:135-160
+application
+ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:4:3-16:17
+MERGED from [:android.arch.lifecycle.runtime-1.0.0:] /home/otrebla/.android/build-cache/e2c557ded7dc9e54bbb2970101ee60ca4a03c9ef/output/AndroidManifest.xml:24:5-28:19
+MERGED from [:com.android.support.support-compat-26.1.0:] /home/otrebla/.android/build-cache/8bd0ef819e3b05d3561fcecf1342ab7cbb640406/output/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-core-ui-26.1.0:] /home/otrebla/.android/build-cache/0b6cd7e6f3af74dc5b0b88c668718e7b8fde89cf/output/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-core-utils-26.1.0:] /home/otrebla/.android/build-cache/4ce93ac992ae3e2871298151a6a4a9a24fa3fcfc/output/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-fragment-26.1.0:] /home/otrebla/.android/build-cache/b37dfb449e55ea2d44ae240f626f880a040b838c/output/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-media-compat-26.1.0:] /home/otrebla/.android/build-cache/6f83946bf22daf858951f170e65b22bf160d7753/output/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-v4-26.1.0:] /home/otrebla/.android/build-cache/f09e0923173f71d428ddb515c0d0cfd10dd1f285/output/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.google.android.gms.play-services-base-12.0.1:] /home/otrebla/.android/build-cache/b93145a2b5a41e2193b932b5dcb11a738f1f35aa/output/AndroidManifest.xml:22:5-27:19
+MERGED from [:com.google.android.gms.play-services-base-license-12.0.1:] /home/otrebla/.android/build-cache/073db9b7be89c340874e1e914b4c6110cfbbb53b/output/AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.gms.play-services-basement-12.0.1:] /home/otrebla/.android/build-cache/135dca92815cf6c1e834e6a2ed66194048d2bbd6/output/AndroidManifest.xml:22:5-26:19
+MERGED from [:com.google.android.gms.play-services-basement-license-12.0.1:] /home/otrebla/.android/build-cache/27a68a802e8ae2ecf74318c991b0772118cc593a/output/AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.gms.play-services-tasks-12.0.1:] /home/otrebla/.android/build-cache/35f3461b013c7b1e3e70b58408ebbe3fdf6638ab/output/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-tasks-license-12.0.1:] /home/otrebla/.android/build-cache/d656d29fb2b690c892b1fdebadfae0250e35fc0e/output/AndroidManifest.xml:22:5-20
+MERGED from [:com.google.firebase.firebase-analytics-12.0.1:] /home/otrebla/.android/build-cache/3d6dc38cc1f7b1b83bb38ddc142941f36b09078f/output/AndroidManifest.xml:27:5-52:19
+MERGED from [:com.google.firebase.firebase-analytics-impl-12.0.1:] /home/otrebla/.android/build-cache/dbc6841d4f3c26b5554f18440b57d3a6e74510db/output/AndroidManifest.xml:27:5-38:19
+MERGED from [:com.google.firebase.firebase-analytics-impl-license-12.0.1:] /home/otrebla/.android/build-cache/76dfb44a5a25606723e6768148288cbf6708f3b5/output/AndroidManifest.xml:22:5-20
+MERGED from [:com.google.firebase.firebase-analytics-license-12.0.1:] /home/otrebla/.android/build-cache/17914bc00813c27fddafd661037e768f9102c9b4/output/AndroidManifest.xml:22:5-20
+MERGED from [:com.google.firebase.firebase-auth-12.0.1:] /home/otrebla/.android/build-cache/df8f4513846b5b6122f6d99f5ebb88a4a9ded52b/output/AndroidManifest.xml:22:5-30:19
+MERGED from [:com.google.firebase.firebase-auth-license-12.0.1:] /home/otrebla/.android/build-cache/d4bc9df8e4bdb78b87d5a1c2963de96c37fc4a48/output/AndroidManifest.xml:22:5-20
+MERGED from [:com.google.firebase.firebase-common-12.0.1:] /home/otrebla/.android/build-cache/620117293d34bec17576743e5bc43ac4cfefb30e/output/AndroidManifest.xml:7:5-13:19
+MERGED from [:com.google.firebase.firebase-common-license-12.0.1:] /home/otrebla/.android/build-cache/f503e7f46b6200c1fbb366f5db52f923b425a676/output/AndroidManifest.xml:22:5-20
+MERGED from [:com.google.firebase.firebase-core-12.0.1:] /home/otrebla/.android/build-cache/98e0ddcb2afbcab053736b409d7a0126e888267f/output/AndroidManifest.xml:5:5-20
+MERGED from [:com.google.firebase.firebase-iid-12.0.1:] /home/otrebla/.android/build-cache/4fb3d37ecf07a3680a7fd82fd40279df99be5237/output/AndroidManifest.xml:34:5-57:19
+MERGED from [:com.google.firebase.firebase-iid-license-12.0.1:] /home/otrebla/.android/build-cache/f59f3e229f4acc26abe8247aa89b46deba395aa3/output/AndroidManifest.xml:22:5-20
+MERGED from [:com.google.firebase.firebase-storage-common-license-12.0.1:] /home/otrebla/.android/build-cache/d0875e3eeb04b231040e5cda5ea9f569756942a8/output/AndroidManifest.xml:22:5-20
+MERGED from [:com.google.firebase.firebase-storage-license-12.0.1:] /home/otrebla/.android/build-cache/4810cfd0f29a454e79e011a69a804f04436770ff/output/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:4:92-124
+	android:icon
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:4:58-91
+	android:theme
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:4:16-57
+	android:isGame
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:4:125-146
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:5:5-12:16
+	android:screenOrientation
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:5:102-138
+	android:label
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:5:69-101
+	android:hardwareAccelerated
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:5:353-388
+	android:launchMode
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:5:139-170
+	android:configChanges
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:5:171-352
+	android:name
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:5:15-68
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+android.intent.category.LEANBACK_LAUNCHER
+ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:6:7-10:23
+action#android.intent.action.MAIN
+ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:8:19-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:9:9-78
+	android:name
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:9:19-75
+meta-data#unityplayer.UnityActivity
+ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:11:7-82
+	android:value
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:11:59-79
+	android:name
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:11:18-58
+meta-data#unity.build-id
+ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:13:5-101
+	android:value
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:13:46-98
+	android:name
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:13:16-45
+meta-data#unity.splash-mode
+ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:14:5-69
+	android:value
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:14:49-66
+	android:name
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:14:16-48
+meta-data#unity.splash-enable
+ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:15:5-74
+	android:value
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:15:51-71
+	android:name
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:15:16-50
+uses-feature#0x00020000
+ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:17:3-52
+	android:glEsVersion
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:17:17-49
+uses-permission#android.permission.INTERNET
+ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:18:3-65
+MERGED from [:com.google.firebase.firebase-analytics-12.0.1:] /home/otrebla/.android/build-cache/3d6dc38cc1f7b1b83bb38ddc142941f36b09078f/output/AndroidManifest.xml:23:5-67
+MERGED from [:com.google.firebase.firebase-analytics-impl-12.0.1:] /home/otrebla/.android/build-cache/dbc6841d4f3c26b5554f18440b57d3a6e74510db/output/AndroidManifest.xml:23:5-67
+MERGED from [:com.google.firebase.firebase-iid-12.0.1:] /home/otrebla/.android/build-cache/4fb3d37ecf07a3680a7fd82fd40279df99be5237/output/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:18:20-62
+uses-permission#android.permission.VIBRATE
+ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:19:3-64
+	android:name
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:19:20-61
+uses-feature#android.hardware.touchscreen
+ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:20:3-88
+	android:required
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:20:61-85
+	android:name
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:20:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:21:3-99
+	android:required
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:21:72-96
+	android:name
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:21:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:22:3-108
+	android:required
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:22:81-105
+	android:name
+		ADDED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml:22:17-80
+uses-sdk
+INJECTED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [:android.arch.lifecycle.runtime-1.0.0:] /home/otrebla/.android/build-cache/e2c557ded7dc9e54bbb2970101ee60ca4a03c9ef/output/AndroidManifest.xml:20:5-22:41
+MERGED from [:com.android.support.support-compat-26.1.0:] /home/otrebla/.android/build-cache/8bd0ef819e3b05d3561fcecf1342ab7cbb640406/output/AndroidManifest.xml:21:5-23:58
+MERGED from [:com.android.support.support-core-ui-26.1.0:] /home/otrebla/.android/build-cache/0b6cd7e6f3af74dc5b0b88c668718e7b8fde89cf/output/AndroidManifest.xml:21:5-23:58
+MERGED from [:com.android.support.support-core-utils-26.1.0:] /home/otrebla/.android/build-cache/4ce93ac992ae3e2871298151a6a4a9a24fa3fcfc/output/AndroidManifest.xml:21:5-23:61
+MERGED from [:com.android.support.support-fragment-26.1.0:] /home/otrebla/.android/build-cache/b37dfb449e55ea2d44ae240f626f880a040b838c/output/AndroidManifest.xml:21:5-23:60
+MERGED from [:com.android.support.support-media-compat-26.1.0:] /home/otrebla/.android/build-cache/6f83946bf22daf858951f170e65b22bf160d7753/output/AndroidManifest.xml:21:5-23:63
+MERGED from [:com.android.support.support-v4-26.1.0:] /home/otrebla/.android/build-cache/f09e0923173f71d428ddb515c0d0cfd10dd1f285/output/AndroidManifest.xml:21:5-23:54
+MERGED from [:com.google.android.gms.play-services-base-12.0.1:] /home/otrebla/.android/build-cache/b93145a2b5a41e2193b932b5dcb11a738f1f35aa/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-base-license-12.0.1:] /home/otrebla/.android/build-cache/073db9b7be89c340874e1e914b4c6110cfbbb53b/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-basement-12.0.1:] /home/otrebla/.android/build-cache/135dca92815cf6c1e834e6a2ed66194048d2bbd6/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-basement-license-12.0.1:] /home/otrebla/.android/build-cache/27a68a802e8ae2ecf74318c991b0772118cc593a/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-tasks-12.0.1:] /home/otrebla/.android/build-cache/35f3461b013c7b1e3e70b58408ebbe3fdf6638ab/output/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-tasks-license-12.0.1:] /home/otrebla/.android/build-cache/d656d29fb2b690c892b1fdebadfae0250e35fc0e/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-analytics-12.0.1:] /home/otrebla/.android/build-cache/3d6dc38cc1f7b1b83bb38ddc142941f36b09078f/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-analytics-impl-12.0.1:] /home/otrebla/.android/build-cache/dbc6841d4f3c26b5554f18440b57d3a6e74510db/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-analytics-impl-license-12.0.1:] /home/otrebla/.android/build-cache/76dfb44a5a25606723e6768148288cbf6708f3b5/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-analytics-license-12.0.1:] /home/otrebla/.android/build-cache/17914bc00813c27fddafd661037e768f9102c9b4/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-analytics-unity-4.5.2:] /home/otrebla/.android/build-cache/d2d4b5bf5230818a8f0ccc0d66b46c296b5e06ad/output/AndroidManifest.xml:7:3-41
+MERGED from [:com.google.firebase.firebase-app-unity-4.5.2:] /home/otrebla/.android/build-cache/3ead6e44cf4037c84454999feb830c6cc8ded9b0/output/AndroidManifest.xml:7:3-41
+MERGED from [:com.google.firebase.firebase-auth-12.0.1:] /home/otrebla/.android/build-cache/df8f4513846b5b6122f6d99f5ebb88a4a9ded52b/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-auth-license-12.0.1:] /home/otrebla/.android/build-cache/d4bc9df8e4bdb78b87d5a1c2963de96c37fc4a48/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-auth-unity-4.5.2:] /home/otrebla/.android/build-cache/8d08ec8d85465d2c6a752d9f91173e9e5b08e488/output/AndroidManifest.xml:7:3-41
+MERGED from [:com.google.firebase.firebase-common-12.0.1:] /home/otrebla/.android/build-cache/620117293d34bec17576743e5bc43ac4cfefb30e/output/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-common-license-12.0.1:] /home/otrebla/.android/build-cache/f503e7f46b6200c1fbb366f5db52f923b425a676/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-core-12.0.1:] /home/otrebla/.android/build-cache/98e0ddcb2afbcab053736b409d7a0126e888267f/output/AndroidManifest.xml:4:5-43
+MERGED from [:com.google.firebase.firebase-iid-12.0.1:] /home/otrebla/.android/build-cache/4fb3d37ecf07a3680a7fd82fd40279df99be5237/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-iid-license-12.0.1:] /home/otrebla/.android/build-cache/f59f3e229f4acc26abe8247aa89b46deba395aa3/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-storage-12.0.1:] /home/otrebla/.android/build-cache/d07fb35c0b17455dc561ae4cb0ad2ac410ad0fb7/output/AndroidManifest.xml:6:5-44
+MERGED from [:com.google.firebase.firebase-storage-common-12.0.1:] /home/otrebla/.android/build-cache/2a62332794b5c06f2d0b70ddac08325280f4c559/output/AndroidManifest.xml:6:5-44
+MERGED from [:com.google.firebase.firebase-storage-common-license-12.0.1:] /home/otrebla/.android/build-cache/d0875e3eeb04b231040e5cda5ea9f569756942a8/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-storage-license-12.0.1:] /home/otrebla/.android/build-cache/4810cfd0f29a454e79e011a69a804f04436770ff/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-storage-unity-4.5.2:] /home/otrebla/.android/build-cache/e76d72253920afadb2a407091c2ef30b14ac684d/output/AndroidManifest.xml:7:3-41
+MERGED from [gradleOut:Firebase:unspecified] /home/otrebla/git/Random-icc/Temp/gradleOut/Firebase/build/intermediates/bundles/default/AndroidManifest.xml:15:5-17:40
+	tools:overrideLibrary
+		ADDED from [:com.android.support.support-compat-26.1.0:] /home/otrebla/.android/build-cache/8bd0ef819e3b05d3561fcecf1342ab7cbb640406/output/AndroidManifest.xml:23:9-55
+	android:targetSdkVersion
+		INJECTED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /home/otrebla/git/Random-icc/Temp/gradleOut/src/main/AndroidManifest.xml
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [:android.arch.lifecycle.runtime-1.0.0:] /home/otrebla/.android/build-cache/e2c557ded7dc9e54bbb2970101ee60ca4a03c9ef/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [:android.arch.lifecycle.runtime-1.0.0:] /home/otrebla/.android/build-cache/e2c557ded7dc9e54bbb2970101ee60ca4a03c9ef/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [:android.arch.lifecycle.runtime-1.0.0:] /home/otrebla/.android/build-cache/e2c557ded7dc9e54bbb2970101ee60ca4a03c9ef/output/AndroidManifest.xml:26:13-58
+meta-data#android.support.VERSION
+ADDED from [:com.android.support.support-compat-26.1.0:] /home/otrebla/.android/build-cache/8bd0ef819e3b05d3561fcecf1342ab7cbb640406/output/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-core-ui-26.1.0:] /home/otrebla/.android/build-cache/0b6cd7e6f3af74dc5b0b88c668718e7b8fde89cf/output/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-core-utils-26.1.0:] /home/otrebla/.android/build-cache/4ce93ac992ae3e2871298151a6a4a9a24fa3fcfc/output/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-fragment-26.1.0:] /home/otrebla/.android/build-cache/b37dfb449e55ea2d44ae240f626f880a040b838c/output/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-media-compat-26.1.0:] /home/otrebla/.android/build-cache/6f83946bf22daf858951f170e65b22bf160d7753/output/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-v4-26.1.0:] /home/otrebla/.android/build-cache/f09e0923173f71d428ddb515c0d0cfd10dd1f285/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [:com.android.support.support-compat-26.1.0:] /home/otrebla/.android/build-cache/8bd0ef819e3b05d3561fcecf1342ab7cbb640406/output/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [:com.android.support.support-compat-26.1.0:] /home/otrebla/.android/build-cache/8bd0ef819e3b05d3561fcecf1342ab7cbb640406/output/AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [:com.google.android.gms.play-services-base-12.0.1:] /home/otrebla/.android/build-cache/b93145a2b5a41e2193b932b5dcb11a738f1f35aa/output/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-base-12.0.1:] /home/otrebla/.android/build-cache/b93145a2b5a41e2193b932b5dcb11a738f1f35aa/output/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [:com.google.android.gms.play-services-base-12.0.1:] /home/otrebla/.android/build-cache/b93145a2b5a41e2193b932b5dcb11a738f1f35aa/output/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [:com.google.android.gms.play-services-base-12.0.1:] /home/otrebla/.android/build-cache/b93145a2b5a41e2193b932b5dcb11a738f1f35aa/output/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [:com.google.android.gms.play-services-basement-12.0.1:] /home/otrebla/.android/build-cache/135dca92815cf6c1e834e6a2ed66194048d2bbd6/output/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [:com.google.android.gms.play-services-basement-12.0.1:] /home/otrebla/.android/build-cache/135dca92815cf6c1e834e6a2ed66194048d2bbd6/output/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [:com.google.android.gms.play-services-basement-12.0.1:] /home/otrebla/.android/build-cache/135dca92815cf6c1e834e6a2ed66194048d2bbd6/output/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:com.google.firebase.firebase-analytics-12.0.1:] /home/otrebla/.android/build-cache/3d6dc38cc1f7b1b83bb38ddc142941f36b09078f/output/AndroidManifest.xml:24:5-79
+MERGED from [:com.google.firebase.firebase-analytics-impl-12.0.1:] /home/otrebla/.android/build-cache/dbc6841d4f3c26b5554f18440b57d3a6e74510db/output/AndroidManifest.xml:24:5-79
+MERGED from [:com.google.firebase.firebase-iid-12.0.1:] /home/otrebla/.android/build-cache/4fb3d37ecf07a3680a7fd82fd40279df99be5237/output/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-12.0.1:] /home/otrebla/.android/build-cache/3d6dc38cc1f7b1b83bb38ddc142941f36b09078f/output/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:com.google.firebase.firebase-analytics-12.0.1:] /home/otrebla/.android/build-cache/3d6dc38cc1f7b1b83bb38ddc142941f36b09078f/output/AndroidManifest.xml:25:5-68
+MERGED from [:com.google.firebase.firebase-analytics-impl-12.0.1:] /home/otrebla/.android/build-cache/dbc6841d4f3c26b5554f18440b57d3a6e74510db/output/AndroidManifest.xml:25:5-68
+MERGED from [:com.google.firebase.firebase-iid-12.0.1:] /home/otrebla/.android/build-cache/4fb3d37ecf07a3680a7fd82fd40279df99be5237/output/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-12.0.1:] /home/otrebla/.android/build-cache/3d6dc38cc1f7b1b83bb38ddc142941f36b09078f/output/AndroidManifest.xml:25:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [:com.google.firebase.firebase-analytics-12.0.1:] /home/otrebla/.android/build-cache/3d6dc38cc1f7b1b83bb38ddc142941f36b09078f/output/AndroidManifest.xml:28:9-32:20
+MERGED from [:com.google.firebase.firebase-analytics-impl-12.0.1:] /home/otrebla/.android/build-cache/dbc6841d4f3c26b5554f18440b57d3a6e74510db/output/AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [:com.google.firebase.firebase-analytics-12.0.1:] /home/otrebla/.android/build-cache/3d6dc38cc1f7b1b83bb38ddc142941f36b09078f/output/AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [:com.google.firebase.firebase-analytics-12.0.1:] /home/otrebla/.android/build-cache/3d6dc38cc1f7b1b83bb38ddc142941f36b09078f/output/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-12.0.1:] /home/otrebla/.android/build-cache/3d6dc38cc1f7b1b83bb38ddc142941f36b09078f/output/AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [:com.google.firebase.firebase-analytics-12.0.1:] /home/otrebla/.android/build-cache/3d6dc38cc1f7b1b83bb38ddc142941f36b09078f/output/AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [:com.google.firebase.firebase-analytics-12.0.1:] /home/otrebla/.android/build-cache/3d6dc38cc1f7b1b83bb38ddc142941f36b09078f/output/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [:com.google.firebase.firebase-analytics-12.0.1:] /home/otrebla/.android/build-cache/3d6dc38cc1f7b1b83bb38ddc142941f36b09078f/output/AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [:com.google.firebase.firebase-analytics-12.0.1:] /home/otrebla/.android/build-cache/3d6dc38cc1f7b1b83bb38ddc142941f36b09078f/output/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-12.0.1:] /home/otrebla/.android/build-cache/3d6dc38cc1f7b1b83bb38ddc142941f36b09078f/output/AndroidManifest.xml:34:13-100
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [:com.google.firebase.firebase-analytics-12.0.1:] /home/otrebla/.android/build-cache/3d6dc38cc1f7b1b83bb38ddc142941f36b09078f/output/AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [:com.google.firebase.firebase-analytics-12.0.1:] /home/otrebla/.android/build-cache/3d6dc38cc1f7b1b83bb38ddc142941f36b09078f/output/AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-12.0.1:] /home/otrebla/.android/build-cache/3d6dc38cc1f7b1b83bb38ddc142941f36b09078f/output/AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [:com.google.firebase.firebase-analytics-12.0.1:] /home/otrebla/.android/build-cache/3d6dc38cc1f7b1b83bb38ddc142941f36b09078f/output/AndroidManifest.xml:43:9-46:40
+MERGED from [:com.google.firebase.firebase-analytics-impl-12.0.1:] /home/otrebla/.android/build-cache/dbc6841d4f3c26b5554f18440b57d3a6e74510db/output/AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [:com.google.firebase.firebase-analytics-12.0.1:] /home/otrebla/.android/build-cache/3d6dc38cc1f7b1b83bb38ddc142941f36b09078f/output/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [:com.google.firebase.firebase-analytics-12.0.1:] /home/otrebla/.android/build-cache/3d6dc38cc1f7b1b83bb38ddc142941f36b09078f/output/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-12.0.1:] /home/otrebla/.android/build-cache/3d6dc38cc1f7b1b83bb38ddc142941f36b09078f/output/AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [:com.google.firebase.firebase-analytics-12.0.1:] /home/otrebla/.android/build-cache/3d6dc38cc1f7b1b83bb38ddc142941f36b09078f/output/AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [:com.google.firebase.firebase-analytics-12.0.1:] /home/otrebla/.android/build-cache/3d6dc38cc1f7b1b83bb38ddc142941f36b09078f/output/AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [:com.google.firebase.firebase-analytics-12.0.1:] /home/otrebla/.android/build-cache/3d6dc38cc1f7b1b83bb38ddc142941f36b09078f/output/AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [:com.google.firebase.firebase-analytics-12.0.1:] /home/otrebla/.android/build-cache/3d6dc38cc1f7b1b83bb38ddc142941f36b09078f/output/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-12.0.1:] /home/otrebla/.android/build-cache/3d6dc38cc1f7b1b83bb38ddc142941f36b09078f/output/AndroidManifest.xml:48:13-87
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [:com.google.firebase.firebase-auth-12.0.1:] /home/otrebla/.android/build-cache/df8f4513846b5b6122f6d99f5ebb88a4a9ded52b/output/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [:com.google.firebase.firebase-auth-12.0.1:] /home/otrebla/.android/build-cache/df8f4513846b5b6122f6d99f5ebb88a4a9ded52b/output/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [:com.google.firebase.firebase-auth-12.0.1:] /home/otrebla/.android/build-cache/df8f4513846b5b6122f6d99f5ebb88a4a9ded52b/output/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [:com.google.firebase.firebase-auth-12.0.1:] /home/otrebla/.android/build-cache/df8f4513846b5b6122f6d99f5ebb88a4a9ded52b/output/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [:com.google.firebase.firebase-auth-12.0.1:] /home/otrebla/.android/build-cache/df8f4513846b5b6122f6d99f5ebb88a4a9ded52b/output/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [:com.google.firebase.firebase-auth-12.0.1:] /home/otrebla/.android/build-cache/df8f4513846b5b6122f6d99f5ebb88a4a9ded52b/output/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [:com.google.firebase.firebase-auth-12.0.1:] /home/otrebla/.android/build-cache/df8f4513846b5b6122f6d99f5ebb88a4a9ded52b/output/AndroidManifest.xml:24:13-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [:com.google.firebase.firebase-common-12.0.1:] /home/otrebla/.android/build-cache/620117293d34bec17576743e5bc43ac4cfefb30e/output/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [:com.google.firebase.firebase-common-12.0.1:] /home/otrebla/.android/build-cache/620117293d34bec17576743e5bc43ac4cfefb30e/output/AndroidManifest.xml:10:13-84
+	android:exported
+		ADDED from [:com.google.firebase.firebase-common-12.0.1:] /home/otrebla/.android/build-cache/620117293d34bec17576743e5bc43ac4cfefb30e/output/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [:com.google.firebase.firebase-common-12.0.1:] /home/otrebla/.android/build-cache/620117293d34bec17576743e5bc43ac4cfefb30e/output/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [:com.google.firebase.firebase-common-12.0.1:] /home/otrebla/.android/build-cache/620117293d34bec17576743e5bc43ac4cfefb30e/output/AndroidManifest.xml:9:13-77
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [:com.google.firebase.firebase-iid-12.0.1:] /home/otrebla/.android/build-cache/4fb3d37ecf07a3680a7fd82fd40279df99be5237/output/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-12.0.1:] /home/otrebla/.android/build-cache/4fb3d37ecf07a3680a7fd82fd40279df99be5237/output/AndroidManifest.xml:26:22-79
+permission#com.DefaultCompany.randomApp.permission.C2D_MESSAGE
+ADDED from [:com.google.firebase.firebase-iid-12.0.1:] /home/otrebla/.android/build-cache/4fb3d37ecf07a3680a7fd82fd40279df99be5237/output/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [:com.google.firebase.firebase-iid-12.0.1:] /home/otrebla/.android/build-cache/4fb3d37ecf07a3680a7fd82fd40279df99be5237/output/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-12.0.1:] /home/otrebla/.android/build-cache/4fb3d37ecf07a3680a7fd82fd40279df99be5237/output/AndroidManifest.xml:29:9-75
+uses-permission#com.DefaultCompany.randomApp.permission.C2D_MESSAGE
+ADDED from [:com.google.firebase.firebase-iid-12.0.1:] /home/otrebla/.android/build-cache/4fb3d37ecf07a3680a7fd82fd40279df99be5237/output/AndroidManifest.xml:32:5-91
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-12.0.1:] /home/otrebla/.android/build-cache/4fb3d37ecf07a3680a7fd82fd40279df99be5237/output/AndroidManifest.xml:32:22-88
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [:com.google.firebase.firebase-iid-12.0.1:] /home/otrebla/.android/build-cache/4fb3d37ecf07a3680a7fd82fd40279df99be5237/output/AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [:com.google.firebase.firebase-iid-12.0.1:] /home/otrebla/.android/build-cache/4fb3d37ecf07a3680a7fd82fd40279df99be5237/output/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [:com.google.firebase.firebase-iid-12.0.1:] /home/otrebla/.android/build-cache/4fb3d37ecf07a3680a7fd82fd40279df99be5237/output/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-12.0.1:] /home/otrebla/.android/build-cache/4fb3d37ecf07a3680a7fd82fd40279df99be5237/output/AndroidManifest.xml:36:13-78
+intent-filter#com.DefaultCompany.randomApp+com.google.android.c2dm.intent.RECEIVE
+ADDED from [:com.google.firebase.firebase-iid-12.0.1:] /home/otrebla/.android/build-cache/4fb3d37ecf07a3680a7fd82fd40279df99be5237/output/AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:com.google.firebase.firebase-iid-12.0.1:] /home/otrebla/.android/build-cache/4fb3d37ecf07a3680a7fd82fd40279df99be5237/output/AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-12.0.1:] /home/otrebla/.android/build-cache/4fb3d37ecf07a3680a7fd82fd40279df99be5237/output/AndroidManifest.xml:40:25-78
+category#com.DefaultCompany.randomApp
+ADDED from [:com.google.firebase.firebase-iid-12.0.1:] /home/otrebla/.android/build-cache/4fb3d37ecf07a3680a7fd82fd40279df99be5237/output/AndroidManifest.xml:42:17-73
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-12.0.1:] /home/otrebla/.android/build-cache/4fb3d37ecf07a3680a7fd82fd40279df99be5237/output/AndroidManifest.xml:42:27-70
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [:com.google.firebase.firebase-iid-12.0.1:] /home/otrebla/.android/build-cache/4fb3d37ecf07a3680a7fd82fd40279df99be5237/output/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [:com.google.firebase.firebase-iid-12.0.1:] /home/otrebla/.android/build-cache/4fb3d37ecf07a3680a7fd82fd40279df99be5237/output/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-12.0.1:] /home/otrebla/.android/build-cache/4fb3d37ecf07a3680a7fd82fd40279df99be5237/output/AndroidManifest.xml:51:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [:com.google.firebase.firebase-iid-12.0.1:] /home/otrebla/.android/build-cache/4fb3d37ecf07a3680a7fd82fd40279df99be5237/output/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [:com.google.firebase.firebase-iid-12.0.1:] /home/otrebla/.android/build-cache/4fb3d37ecf07a3680a7fd82fd40279df99be5237/output/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [:com.google.firebase.firebase-iid-12.0.1:] /home/otrebla/.android/build-cache/4fb3d37ecf07a3680a7fd82fd40279df99be5237/output/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-12.0.1:] /home/otrebla/.android/build-cache/4fb3d37ecf07a3680a7fd82fd40279df99be5237/output/AndroidManifest.xml:54:25-77
