@@ -16,3 +16,8 @@ A partir de la presentación del primer avance (en clase), podriamos ver en que 
 Una vez que se pongan los memes y videos random, hacer varias pruebas para encontrar fallas y corregirlas.
 
 Poner más ideas.                                                                                                               
+
+
+idea de poner una puntacion de 1 a 5 estrellas para valorizar el meme o contenido que te muestre el random app.
+
+idea (si es posible) podee compartir el meme en facebook si te gusta lo suficiente con un boton.
