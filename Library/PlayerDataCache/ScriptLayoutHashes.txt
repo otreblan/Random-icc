@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-/home/otrebla/git/Random-icc/Apks/pruebas00.20.apk
+/home/otrebla/git/Random-icc/Apks/pruebas00.21.apk
 SceneListBegin?
 Assets/Scenes/SampleScene.unity
 SceneListEnd?
@@ -116,7 +116,6 @@ bc68edb0af574bf79f9550ead8ebae5c UnityEngine.HoloLens.dll:UnityEngine.Audio.Audi
 c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingCollider
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
 167363070295d8220138b9153aad607d Assembly-CSharp.dll:.rota
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.VibraScr
 0fec7a30133bdfd8538b735920c11fb2 Assembly-CSharp.dll:.creaFondo
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
@@ -150,5 +149,4 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Posicionador
-6db0440ca685cb789345ee42eeb4c639 Assembly-CSharp.dll:.cargaScr
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.MoveDebug
+89feae800a4c1a4a0f89b9ae22b0dc6f Assembly-CSharp.dll:.cargaScr

@@ -8,6 +8,9 @@ using UnityEngine.Networking;
 public class cargaScr : MonoBehaviour {
 
 	public Image image;
+
+	public Sprite spriteFondo;
+	public Sprite spriteFondoBlur;
 	//public Sprite a;
 	//string ruta;
 	Queue<Sprite> memes;
@@ -53,11 +56,24 @@ public class cargaScr : MonoBehaviour {
 	// Update is called once per frame
 	public void memeSiguente(){
 		StartCoroutine(cargaMeme());
+		StartCoroutine(cambiaFondo());
 	}
+
 	IEnumerator cargaMeme(){
 		//print(1);
 		yield return new WaitUntil(() => memes.Count > 0);
 		//print(2);
         image.sprite = memes.Dequeue();
 	}
+
+	IEnumerator cambiaFondo(){
+		GameObject[] fondos = GameObject.FindGameObjectsWithTag("Fondo");
+		yield return new WaitUntil(() => fondos != null);
+		foreach (GameObject fondo in fondos)
+		{
+			Image fondoImage = fondo.GetComponent<Image>();
+			fondoImage.sprite = spriteFondoBlur;
+			fondoImage.SetNativeSize();
+		}
+    }
 }

@@ -21,12 +21,11 @@ GameObject:
   - component: {fileID: 224475694704469546}
   - component: {fileID: 222548638641520156}
   - component: {fileID: 114715029499674684}
-  - component: {fileID: 114653539179499176}
   - component: {fileID: 95079942619189592}
   - component: {fileID: 114450783163038722}
   m_Layer: 5
   m_Name: Image
-  m_TagString: Untagged
+  m_TagString: Fondo
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -60,17 +59,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a5dfe49ceac21404896d45945a72299e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &114653539179499176
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1412718967350360}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7d7c052f256604e8b85da7cda461d9f8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &114715029499674684
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -90,7 +78,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 985e912943650443d8ff376ea0e9cf66, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 2f41203cd6b5448888175191b58fb609, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -110,15 +98,15 @@ RectTransform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1412718967350360}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.1, y: 0.1, z: 1}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1072, y: 1288}
+  m_AnchoredPosition: {x: 166, y: -431.1}
+  m_SizeDelta: {x: 274, y: 329}
   m_Pivot: {x: 0.5, y: 0.5}

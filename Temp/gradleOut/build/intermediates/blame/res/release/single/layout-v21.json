@@ -1,18 +1,18 @@
 [
     {
         "merged": "/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
-        "source": "/home/otrebla/.android/build-cache/8bd0ef819e3b05d3561fcecf1342ab7cbb640406/output/res/layout-v21/notification_template_icon_group.xml"
+        "source": "/home/otrebla/.android/build-cache/7c581db2754bb10f010fde51becc3043b9237b3e/output/res/layout-v21/notification_template_icon_group.xml"
     },
     {
         "merged": "/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
-        "source": "/home/otrebla/.android/build-cache/8bd0ef819e3b05d3561fcecf1342ab7cbb640406/output/res/layout-v21/notification_action.xml"
+        "source": "/home/otrebla/.android/build-cache/7c581db2754bb10f010fde51becc3043b9237b3e/output/res/layout-v21/notification_action.xml"
     },
     {
         "merged": "/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
-        "source": "/home/otrebla/.android/build-cache/8bd0ef819e3b05d3561fcecf1342ab7cbb640406/output/res/layout-v21/notification_template_custom_big.xml"
+        "source": "/home/otrebla/.android/build-cache/7c581db2754bb10f010fde51becc3043b9237b3e/output/res/layout-v21/notification_template_custom_big.xml"
     },
     {
         "merged": "/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
-        "source": "/home/otrebla/.android/build-cache/8bd0ef819e3b05d3561fcecf1342ab7cbb640406/output/res/layout-v21/notification_action_tombstone.xml"
+        "source": "/home/otrebla/.android/build-cache/7c581db2754bb10f010fde51becc3043b9237b3e/output/res/layout-v21/notification_action_tombstone.xml"
     }
 ]

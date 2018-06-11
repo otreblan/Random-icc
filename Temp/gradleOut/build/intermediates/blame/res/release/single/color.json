@@ -1,14 +1,14 @@
 [
     {
         "merged": "/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
-        "source": "/home/otrebla/.android/build-cache/b93145a2b5a41e2193b932b5dcb11a738f1f35aa/output/res/color/common_google_signin_btn_tint.xml"
+        "source": "/home/otrebla/.android/build-cache/0b243fb3aa15c72a19c78c4f65a03a42c8ccaf26/output/res/color/common_google_signin_btn_tint.xml"
     },
     {
         "merged": "/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
-        "source": "/home/otrebla/.android/build-cache/b93145a2b5a41e2193b932b5dcb11a738f1f35aa/output/res/color/common_google_signin_btn_text_dark.xml"
+        "source": "/home/otrebla/.android/build-cache/0b243fb3aa15c72a19c78c4f65a03a42c8ccaf26/output/res/color/common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
-        "source": "/home/otrebla/.android/build-cache/b93145a2b5a41e2193b932b5dcb11a738f1f35aa/output/res/color/common_google_signin_btn_text_light.xml"
+        "source": "/home/otrebla/.android/build-cache/0b243fb3aa15c72a19c78c4f65a03a42c8ccaf26/output/res/color/common_google_signin_btn_text_light.xml"
     }
 ]

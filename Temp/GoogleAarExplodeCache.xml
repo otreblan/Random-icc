@@ -23,7 +23,7 @@
   </explodeData>
   <explodeData>
     <aar>android.arch.lifecycle.runtime-1.0.0</aar>
-    <modificationTime>2018-06-10T09:41:38.0000000-05:00</modificationTime>
+    <modificationTime>2018-06-11T13:46:20.0000000-05:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/android.arch.lifecycle.runtime-1.0.0.aar</path>
@@ -45,7 +45,7 @@
   </explodeData>
   <explodeData>
     <aar>com.android.support.support-compat-26.1.0</aar>
-    <modificationTime>2018-06-10T09:41:39.0000000-05:00</modificationTime>
+    <modificationTime>2018-06-11T13:46:21.0000000-05:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/com.android.support.support-compat-26.1.0.aar</path>
@@ -56,7 +56,7 @@
   </explodeData>
   <explodeData>
     <aar>com.android.support.support-core-ui-26.1.0</aar>
-    <modificationTime>2018-06-10T09:41:47.0000000-05:00</modificationTime>
+    <modificationTime>2018-06-11T13:46:28.0000000-05:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/com.android.support.support-core-ui-26.1.0.aar</path>
@@ -67,7 +67,7 @@
   </explodeData>
   <explodeData>
     <aar>com.android.support.support-core-utils-26.1.0</aar>
-    <modificationTime>2018-06-10T09:41:40.0000000-05:00</modificationTime>
+    <modificationTime>2018-06-11T13:46:21.0000000-05:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/com.android.support.support-core-utils-26.1.0.aar</path>
@@ -78,7 +78,7 @@
   </explodeData>
   <explodeData>
     <aar>com.android.support.support-fragment-26.1.0</aar>
-    <modificationTime>2018-06-10T09:41:52.0000000-05:00</modificationTime>
+    <modificationTime>2018-06-11T13:46:33.0000000-05:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/com.android.support.support-fragment-26.1.0.aar</path>
@@ -89,7 +89,7 @@
   </explodeData>
   <explodeData>
     <aar>com.android.support.support-media-compat-26.1.0</aar>
-    <modificationTime>2018-06-10T09:41:51.0000000-05:00</modificationTime>
+    <modificationTime>2018-06-11T13:46:32.0000000-05:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/com.android.support.support-media-compat-26.1.0.aar</path>
@@ -100,7 +100,7 @@
   </explodeData>
   <explodeData>
     <aar>com.android.support.support-v4-26.1.0</aar>
-    <modificationTime>2018-06-10T09:41:46.0000000-05:00</modificationTime>
+    <modificationTime>2018-06-11T13:46:27.0000000-05:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/com.android.support.support-v4-26.1.0.aar</path>
@@ -111,7 +111,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.android.gms.play-services-base-12.0.1</aar>
-    <modificationTime>2018-06-10T09:41:41.0000000-05:00</modificationTime>
+    <modificationTime>2018-06-11T13:46:22.0000000-05:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/com.google.android.gms.play-services-base-12.0.1.aar</path>
@@ -122,7 +122,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.android.gms.play-services-base-license-12.0.1</aar>
-    <modificationTime>2018-06-10T09:41:40.0000000-05:00</modificationTime>
+    <modificationTime>2018-06-11T13:46:21.0000000-05:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/com.google.android.gms.play-services-base-license-12.0.1.aar</path>
@@ -133,7 +133,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.android.gms.play-services-basement-12.0.1</aar>
-    <modificationTime>2018-06-10T09:41:53.0000000-05:00</modificationTime>
+    <modificationTime>2018-06-11T13:46:34.0000000-05:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/com.google.android.gms.play-services-basement-12.0.1.aar</path>
@@ -144,7 +144,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.android.gms.play-services-basement-license-12.0.1</aar>
-    <modificationTime>2018-06-10T09:41:44.0000000-05:00</modificationTime>
+    <modificationTime>2018-06-11T13:46:25.0000000-05:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/com.google.android.gms.play-services-basement-license-12.0.1.aar</path>
@@ -155,7 +155,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.android.gms.play-services-tasks-12.0.1</aar>
-    <modificationTime>2018-06-10T09:41:38.0000000-05:00</modificationTime>
+    <modificationTime>2018-06-11T13:46:20.0000000-05:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/com.google.android.gms.play-services-tasks-12.0.1.aar</path>
@@ -166,7 +166,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.android.gms.play-services-tasks-license-12.0.1</aar>
-    <modificationTime>2018-06-10T09:41:34.0000000-05:00</modificationTime>
+    <modificationTime>2018-06-11T13:46:15.0000000-05:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/com.google.android.gms.play-services-tasks-license-12.0.1.aar</path>
@@ -177,7 +177,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.firebase.firebase-analytics-12.0.1</aar>
-    <modificationTime>2018-06-10T09:41:37.0000000-05:00</modificationTime>
+    <modificationTime>2018-06-11T13:46:19.0000000-05:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/com.google.firebase.firebase-analytics-12.0.1.aar</path>
@@ -188,7 +188,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.firebase.firebase-analytics-impl-12.0.1</aar>
-    <modificationTime>2018-06-10T09:41:50.0000000-05:00</modificationTime>
+    <modificationTime>2018-06-11T13:46:31.0000000-05:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/com.google.firebase.firebase-analytics-impl-12.0.1.aar</path>
@@ -199,7 +199,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.firebase.firebase-analytics-impl-license-12.0.1</aar>
-    <modificationTime>2018-06-10T09:41:37.0000000-05:00</modificationTime>
+    <modificationTime>2018-06-11T13:46:19.0000000-05:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/com.google.firebase.firebase-analytics-impl-license-12.0.1.aar</path>
@@ -210,7 +210,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.firebase.firebase-analytics-license-12.0.1</aar>
-    <modificationTime>2018-06-10T09:41:39.0000000-05:00</modificationTime>
+    <modificationTime>2018-06-11T13:46:21.0000000-05:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/com.google.firebase.firebase-analytics-license-12.0.1.aar</path>
@@ -221,7 +221,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.firebase.firebase-analytics-unity-4.5.2</aar>
-    <modificationTime>2018-06-10T09:41:50.0000000-05:00</modificationTime>
+    <modificationTime>2018-06-11T13:46:31.0000000-05:00</modificationTime>
     <explode>true</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/com.google.firebase.firebase-analytics-unity-4.5.2.aar</path>
@@ -232,7 +232,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.firebase.firebase-app-unity-4.5.2</aar>
-    <modificationTime>2018-06-10T09:41:51.0000000-05:00</modificationTime>
+    <modificationTime>2018-06-11T13:46:32.0000000-05:00</modificationTime>
     <explode>true</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/com.google.firebase.firebase-app-unity-4.5.2.aar</path>
@@ -243,7 +243,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.firebase.firebase-auth-12.0.1</aar>
-    <modificationTime>2018-06-10T09:41:38.0000000-05:00</modificationTime>
+    <modificationTime>2018-06-11T13:46:20.0000000-05:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/com.google.firebase.firebase-auth-12.0.1.aar</path>
@@ -254,7 +254,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.firebase.firebase-auth-license-12.0.1</aar>
-    <modificationTime>2018-06-10T09:41:46.0000000-05:00</modificationTime>
+    <modificationTime>2018-06-11T13:46:27.0000000-05:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/com.google.firebase.firebase-auth-license-12.0.1.aar</path>
@@ -265,7 +265,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.firebase.firebase-auth-unity-4.5.2</aar>
-    <modificationTime>2018-06-10T09:41:38.0000000-05:00</modificationTime>
+    <modificationTime>2018-06-11T13:46:20.0000000-05:00</modificationTime>
     <explode>true</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-4.5.2.aar</path>
@@ -276,7 +276,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.firebase.firebase-common-12.0.1</aar>
-    <modificationTime>2018-06-10T09:41:38.0000000-05:00</modificationTime>
+    <modificationTime>2018-06-11T13:46:20.0000000-05:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/com.google.firebase.firebase-common-12.0.1.aar</path>
@@ -287,7 +287,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.firebase.firebase-common-license-12.0.1</aar>
-    <modificationTime>2018-06-10T09:41:46.0000000-05:00</modificationTime>
+    <modificationTime>2018-06-11T13:46:27.0000000-05:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/com.google.firebase.firebase-common-license-12.0.1.aar</path>
@@ -298,7 +298,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.firebase.firebase-core-12.0.1</aar>
-    <modificationTime>2018-06-10T09:41:41.0000000-05:00</modificationTime>
+    <modificationTime>2018-06-11T13:46:23.0000000-05:00</modificationTime>
     <explode>true</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/com.google.firebase.firebase-core-12.0.1.aar</path>
@@ -309,7 +309,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.firebase.firebase-iid-12.0.1</aar>
-    <modificationTime>2018-06-10T09:41:38.0000000-05:00</modificationTime>
+    <modificationTime>2018-06-11T13:46:20.0000000-05:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/com.google.firebase.firebase-iid-12.0.1.aar</path>
@@ -320,7 +320,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.firebase.firebase-iid-license-12.0.1</aar>
-    <modificationTime>2018-06-10T09:41:38.0000000-05:00</modificationTime>
+    <modificationTime>2018-06-11T13:46:20.0000000-05:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/com.google.firebase.firebase-iid-license-12.0.1.aar</path>
@@ -331,7 +331,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.firebase.firebase-storage-12.0.1</aar>
-    <modificationTime>2018-06-10T09:41:38.0000000-05:00</modificationTime>
+    <modificationTime>2018-06-11T13:46:20.0000000-05:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/com.google.firebase.firebase-storage-12.0.1.aar</path>
@@ -342,7 +342,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.firebase.firebase-storage-common-12.0.1</aar>
-    <modificationTime>2018-06-10T09:41:37.0000000-05:00</modificationTime>
+    <modificationTime>2018-06-11T13:46:19.0000000-05:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/com.google.firebase.firebase-storage-common-12.0.1.aar</path>
@@ -353,7 +353,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.firebase.firebase-storage-common-license-12.0.1</aar>
-    <modificationTime>2018-06-10T09:41:49.0000000-05:00</modificationTime>
+    <modificationTime>2018-06-11T13:46:30.0000000-05:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/com.google.firebase.firebase-storage-common-license-12.0.1.aar</path>
@@ -364,7 +364,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.firebase.firebase-storage-license-12.0.1</aar>
-    <modificationTime>2018-06-10T09:41:40.0000000-05:00</modificationTime>
+    <modificationTime>2018-06-11T13:46:22.0000000-05:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/com.google.firebase.firebase-storage-license-12.0.1.aar</path>
@@ -375,7 +375,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.firebase.firebase-storage-unity-4.5.2</aar>
-    <modificationTime>2018-06-10T09:41:46.0000000-05:00</modificationTime>
+    <modificationTime>2018-06-11T13:46:27.0000000-05:00</modificationTime>
     <explode>true</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/com.google.firebase.firebase-storage-unity-4.5.2.aar</path>
