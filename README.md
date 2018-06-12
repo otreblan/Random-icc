@@ -21,3 +21,9 @@ Poner más ideas.
 idea de poner una puntacion de 1 a 5 estrellas para valorizar el meme o contenido que te muestre el random app.
 
 idea (si es posible) podee compartir el meme en facebook si te gusta lo suficiente con un boton.
+
+#Por hacer
+
+Hay que hacer un programa que cambie el nombre a varios archivos .jpg y .png. El nombre debe ser un número de 9 dígitos.
+Y al terminar, el programa debe escribir un archivo INDEX.txt con los nombres de todas las imágenes.
+Juan o antonio, Hagan el programa por favor.
