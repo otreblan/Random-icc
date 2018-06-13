@@ -3,7 +3,7 @@
     package="com.DefaultCompany.randomApp"
     android:installLocation="preferExternal"
     android:versionCode="1"
-    android:versionName="0.1.021" >
+    android:versionName="0.1.022" >
 
     <uses-sdk
         android:minSdkVersion="16"
@@ -66,7 +66,7 @@
 
         <meta-data
             android:name="unity.build-id"
-            android:value="1dc0b754-d2e0-4d1a-a163-86becb014b87" />
+            android:value="331f3758-706f-4124-be1a-77fbdd2257ae" />
         <meta-data
             android:name="unity.splash-mode"
             android:value="0" />

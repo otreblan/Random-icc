@@ -23,6 +23,8 @@ public class cargaScr : MonoBehaviour {
 
 	WWW wWW;
 
+	bool memeEnPantalla = false;
+
 	// Use this for initialization
 	IEnumerator Start () {
 		//	ruta = "jar:file://" + Application.dataPath + "!/assets/" + "algo.jpg";
@@ -56,7 +58,8 @@ public class cargaScr : MonoBehaviour {
 	// Update is called once per frame
 	public void memeSiguente(){
 		StartCoroutine(cargaMeme());
-		StartCoroutine(cambiaFondo());
+		if (!memeEnPantalla)
+		    StartCoroutine(cambiaFondo());
 	}
 
 	IEnumerator cargaMeme(){
@@ -75,5 +78,6 @@ public class cargaScr : MonoBehaviour {
 			fondoImage.sprite = spriteFondoBlur;
 			fondoImage.SetNativeSize();
 		}
+		memeEnPantalla = true;
     }
 }

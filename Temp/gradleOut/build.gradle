@@ -68,7 +68,7 @@ android {
 			abiFilters 'armeabi-v7a', 'x86'
 		}
 		versionCode	1
-		versionName	'0.1.021'
+		versionName	'0.1.022'
 	}
 
 	lintOptions {

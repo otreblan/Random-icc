@@ -3,8 +3,8 @@
     <Files>
       <File FileName="Assets/scripts/rota.cs" Line="30" Column="1" />
       <File FileName="Assets/scripts/Posicionador.cs" Line="3" Column="19" />
-      <File FileName="Assets/scripts/creaFondo.cs" Line="3" Column="19" />
-      <File FileName="Assets/scripts/cargaScr.cs" Line="76" Column="31" />
+      <File FileName="Assets/scripts/creaFondo.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/cargaScr.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
