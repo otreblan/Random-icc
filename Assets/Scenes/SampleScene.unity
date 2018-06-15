@@ -364,9 +364,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1474638841}
-        m_MethodName: memeSiguente
-        m_Mode: 1
+      - m_Target: {fileID: 2119803423}
+        m_MethodName: set_enabled
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -375,9 +375,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
-      - m_Target: {fileID: 2119803423}
-        m_MethodName: set_enabled
-        m_Mode: 6
+      - m_Target: {fileID: 1474638841}
+        m_MethodName: memeSiguente
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -677,6 +677,7 @@ MonoBehaviour:
   image: {fileID: 1474638842}
   spriteFondo: {fileID: 21300000, guid: 2f41203cd6b5448888175191b58fb609, type: 3}
   spriteFondoBlur: {fileID: 21300000, guid: 6254fa26227364bfeac7fa9969766711, type: 3}
+  canvasAnimator: {fileID: 2119803423}
 --- !u!114 &1474638842
 MonoBehaviour:
   m_ObjectHideFlags: 0

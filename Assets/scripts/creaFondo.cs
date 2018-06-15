@@ -10,8 +10,10 @@ public class creaFondo : MonoBehaviour {
 
 	Animator animator;
 
+	//public static bool cambiaMeme;
 	// Use this for initialization
 	void Start () {//sin el IEnumerator el yield return new WaitForSeconds(1) no funciona
+
 		alea = new System.Random();
 		for (int i = 0; i < fondoNum; i++)
 		{
@@ -29,4 +31,9 @@ public class creaFondo : MonoBehaviour {
 			animator.SetFloat("Blend", Random.Range(0.1f, 5.0f));
         }
 	}
+
+	/*public void llamaMeme(){
+		//esta función cambia el cambiaMeme a verdadero para cambiar el meme
+		cambiaMeme = true;
+	}*/
 }
