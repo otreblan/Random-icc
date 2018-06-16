@@ -7,12 +7,16 @@ using UnityEngine.Networking;
 
 public class cargaScr : MonoBehaviour {
 
-	public Image image;
+	float memePropor; //esta es la proporción de la textura del meme
+
+	public RawImage image;
 
 	public Sprite spriteFondo;
 	public Sprite spriteFondoBlur;
 	public Animator canvasAnimator;
-	Queue<Sprite> memes;
+	Queue<Texture2D> memes;
+	RectTransform rectTransform;
+	Texture meme;
     
 	Firebase.Storage.FirebaseStorage storage;
 	Firebase.Storage.StorageReference imaReference;
@@ -24,11 +28,11 @@ public class cargaScr : MonoBehaviour {
 	string[] nombres;
 
 	bool memeEnPantalla = false;
-	bool cargaMemeCorriendo;
-
-	// Use this for initialization
+	bool cargaMemeCorriendo;//esto da verdadero si la corrutina del cargado del meme está corriendo
+    
 	IEnumerator Start () {
-		memes = new Queue<Sprite>(2);
+		rectTransform = GetComponent<RectTransform>();
+		memes = new Queue<Texture2D>(2);
 
 		storage = Firebase.Storage.FirebaseStorage.DefaultInstance;
 		imaReference = storage.GetReferenceFromUrl("gs://randomapp-dd930.appspot.com/Imagenes");
@@ -55,8 +59,7 @@ public class cargaScr : MonoBehaviour {
        
 	}
 
-
-	// Update is called once per frame
+    
 	public void memeSiguente(){      
 		if (!memeEnPantalla)
 		{
@@ -77,8 +80,24 @@ public class cargaScr : MonoBehaviour {
 		yield return new WaitForSeconds(0.5f);
 		yield return new WaitUntil(() => memes.Count > 0);
 
-        image.sprite = memes.Dequeue();
+		Destroy(meme);//Con esto porfín la memoría ya no se llena de texturas ni se crashea
 
+		meme = memes.Dequeue();
+		image.texture = meme;
+
+
+		memePropor = (meme.width * 1f) / (meme.height * 1f);
+
+		if (memePropor < 1)
+		{
+			rectTransform.localScale = new Vector3(memePropor, 1f, 1f);
+		}
+		else
+		{
+			rectTransform.localScale = new Vector3(1f, (1f/memePropor), 1f);
+		}
+
+        
 		yield return new WaitForSeconds(0.5f);
 		cargaMemeCorriendo = false;
 	}
@@ -87,9 +106,6 @@ public class cargaScr : MonoBehaviour {
 	void cambiaFondo(){
 		//Esto cambia los sprites de la cosas del fondo a la versión borrosa
 
-		//GameObject[] fondos = GameObject.FindGameObjectsWithTag("Fondo");
-		//yield return new WaitUntil(() => fondos != null);
-
 		foreach (GameObject fondo in creaFondo.fondosArr)
 		{
 			Image fondoImage = fondo.GetComponent<Image>();
@@ -97,7 +113,6 @@ public class cargaScr : MonoBehaviour {
 			fondoImage.SetNativeSize();
 		}
 		memeEnPantalla = true;
-		//print(memeEnPantalla);
     }
 
 
@@ -105,8 +120,6 @@ public class cargaScr : MonoBehaviour {
 		Firebase.Storage.StorageReference imaReferen = imaReference.Child(nombres[Random.Range(0, nombres.Length)]);
 
 		WWW wWW = null;
-        //imaReferencePrue.GetFileAsync(ruta);//está incompleto, creo
-        // Fetch the download URL
         
 		imaReferen.GetDownloadUrlAsync().ContinueWith((Task<System.Uri> task) => {
             if (!task.IsFaulted && !task.IsCanceled)
@@ -120,8 +133,7 @@ public class cargaScr : MonoBehaviour {
         yield return new WaitUntil(() => wWW != null);
         yield return new WaitUntil(() => wWW.isDone);
 
-        memes.Enqueue(Sprite.Create(wWW.texture, new Rect(0, 0, wWW.texture.width, wWW.texture.height), new Vector2(0.0f, 0.0f)));
-
+		memes.Enqueue(wWW.texture);
 		yield return new WaitUntil(() => memes.Count < 2);
 		StartCoroutine(cargaImagen());
 	}

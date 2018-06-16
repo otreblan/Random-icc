@@ -3,30 +3,39 @@
 
     <item
         is-multidex="false"
-        jar="/home/otrebla/.android/build-cache/33e7e112b6e6d4349682e21b9a09512f882866f9/output/jars/classes.jar"
+        jar="/home/otrebla/.android/build-cache/3459e855933f26070616b3957dea53b27f665620/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="28.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_089463c9f8155f83c1e0cede9cde4fcaa2a0c43a.jar" />
+        sha1="ed8395f343c428cd55c60499f04323083f4ef0db">
+        <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_81cda537ccdcd5acc8db47c5d2e76e522653e528.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/otrebla/.android/build-cache/324a4a9150ee0f2fa01ac6cbde3e569311593858/output/jars/classes.jar"
+        jar="/home/otrebla/.android/build-cache/36987d03a7b6ebb5c643d599d362fee678d5f531/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="28.0.0"
         sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
-        <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_39d8a4b221737ff51ae4dfdd0cef0c1c71f9b6d0.jar" />
+        <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_d6c237233cdd2856e44b3c17294c400f90c45bb8.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/otrebla/.android/build-cache/844946d00fa82620dae099652727fc5abb7aa174/output/jars/classes.jar"
+        jar="/home/otrebla/.android/build-cache/69299be533bac138f3ee2d5ac802c4eefa53a29b/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="28.0.0"
-        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
-        <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_d4d33c7c2d2ae353cfc72a709d8dd70f53ecb3cc.jar" />
+        sha1="a38a8974c8d066800237d22a86df2e88cb9e065c">
+        <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_3b64d46798e7a735f08054d5efc066421531f472.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/otrebla/.android/build-cache/69b05d10c2ead7a5e633e7272270fc0d91db3def/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="d8ec04dc91c0c90a0ceeca77c94c8b15cb7f3892">
+        <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_e9b656d3fc1462b9eb6caac2e3634cb5eb5d5d62.jar" />
     </item>
     <item
         is-multidex="false"
@@ -39,39 +48,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/otrebla/.android/build-cache/06ac87eeb72ade570c6b492550491448461aa3a3/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.0"
-        sha1="b01381b98fecbc99b2b6856c2cef4594ce4b37e8">
-        <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_f70a4a15a59ba7835ab610cf125fc5bdc20097aa.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/otrebla/.android/build-cache/95e7b2bcc977fe85b90f9fcd707242e8aa275dd6/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.0"
-        sha1="a38a8974c8d066800237d22a86df2e88cb9e065c">
-        <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_f617d5c370268236d426dde7dd16d2fa270b239d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/otrebla/.android/build-cache/718ae1fea75e5e7fd5d1cd64cd1de7ac159d05da/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.0"
-        sha1="43777ad2c3f87b64ced35a875ce2befa178a23da">
-        <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_978705349677668bab88fff945148e10bce4db95.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/otrebla/git/Random-icc/Temp/gradleOut/libs/android.arch.core.common-1.0.0.jar"
         jumboMode="false"
         optimize="true"
         revision="28.0.0"
         sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
         <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/android.arch.core.common-1.0.0_7e803a828130eb9b0d186e16b9d9f2a0ed1ab6ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/otrebla/.android/build-cache/ccb288a19a10024c07541b735e2e012b5a32e42e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="66c2e87b6c3fc49891d1d0c05474a159390b0373">
+        <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_7aac1d63f2ca29e9b36e29b6d0a3945994108ad5.jar" />
     </item>
     <item
         is-multidex="false"
@@ -84,48 +75,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/otrebla/.android/build-cache/6a5b932ad0416785b2b06e7e06577ca6ce4d6ff7/output/jars/classes.jar"
+        jar="/home/otrebla/.android/build-cache/69805c4e068aded1458da39c9280058147c5c5f8/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="28.0.0"
-        sha1="66c2e87b6c3fc49891d1d0c05474a159390b0373">
-        <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_0a9fb6a627ad910c58175e94edbe7ebdde668bec.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/otrebla/.android/build-cache/8cc49f5939d41120c74c25e48aa43a2df4d406e5/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.0"
-        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
-        <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_a369a7ab1dcb36d3dbbcdc50929811dbaa0ff753.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/otrebla/.android/build-cache/d7cb21283a6ad5a0003f4bf8ce14714ae544cf6b/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.0"
-        sha1="ed8395f343c428cd55c60499f04323083f4ef0db">
-        <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_1b5114a85969c38fb7cab7e632f4d8ad4b8a77b3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/otrebla/.android/build-cache/877eec58736cf2b861bffa2da75eaaa00e05f722/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.0"
-        sha1="54c67f87c9eb60be5eca37aa7d1a85f7651c4bc1">
-        <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_ba74b23639cf1d392a2880daedca516067c9e1f0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/otrebla/.android/build-cache/85eff7d4f662f33718584f5b7e5f5f42ce06c47f/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.0"
-        sha1="b739661c7142579d33f42801cfb71882cd217727">
-        <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_0be9466e803ebf16207bf11e07e23227617c30ed.jar" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_d24640bf02526cba178f9d98a86be1969df62a9f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -138,39 +93,84 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/otrebla/.android/build-cache/4d5e25d05614e4238a997cb59680616ef088fbda/output/jars/classes.jar"
+        jar="/home/otrebla/.android/build-cache/eb7fe5f246896d82526fc50d3de2135fc02739ae/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="28.0.0"
-        sha1="508f50705b4fde51a16259f29c854201a3044516">
-        <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_cf724b8ccef6a234dfa51b65b71109eba83218d4.jar" />
+        sha1="b739661c7142579d33f42801cfb71882cd217727">
+        <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_fe00a94462d038f74c95d2d4323fdf1a76a4f17f.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/otrebla/.android/build-cache/76031d4d1533047f848971ccb2fceb490d1a27ee/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.0"
-        sha1="22569eca3029ab00583c332a2be220cdbf091b35">
-        <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_99a580bb95d6c46241ee66838c68bee097f95998.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/otrebla/.android/build-cache/33b7fc093311a17779c8a2126cbe685767a26fea/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.0"
-        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
-        <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_5cca4802f0a43dd0514dc56bf7e1f3b49f2d98f3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/otrebla/.android/build-cache/325b229e8f6a7f9a302f7043432418593b057cdd/output/jars/classes.jar"
+        jar="/home/otrebla/.android/build-cache/9ee50742e712864842fd57b958250cf4309aaa1a/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="28.0.0"
         sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
-        <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_699b6746c96e50f6efa875b4175d59a026043294.jar" />
+        <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_414207d367b25e65e5b768d0109b586d122b1433.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/otrebla/.android/build-cache/81d2b963bf486bf4d1f8053db1fa7df5a28e7fcd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="43777ad2c3f87b64ced35a875ce2befa178a23da">
+        <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_658d8492fccf018798247ddd04f9cf76fbbddc06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/otrebla/.android/build-cache/c211d033012ee95d69ee461437a074ff0393a013/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="b01381b98fecbc99b2b6856c2cef4594ce4b37e8">
+        <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_4be64b55d5e12cc731353601251b81fb90feaca2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/otrebla/.android/build-cache/50fcb7787b7706d0c9f6808916b2accedb22fbe0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="4c9dde3866f60967d73035b3445bb0f703429612">
+        <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_918336c6242a3e9414f095ad87c8ef1c1d2b670d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/otrebla/.android/build-cache/e7f9be83b7b19972819d75ea1e623a07951ba4f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="22569eca3029ab00583c332a2be220cdbf091b35">
+        <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_597e5c19d32356b44149aea1483133273d823fe4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/otrebla/.android/build-cache/eedef9324575b3fe78aa0a782aefe9576a2d6f5f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_41e1838227d611c9c4e8f82885afe324c04a05a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/otrebla/.android/build-cache/66c3452317aaaec8696ab0afa846448765bd0f73/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_592cdfb34e0be68f86fd0d3f6656549880809c88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/otrebla/.android/build-cache/10efac09956a84b4174b97b7f1f5d468d716d55a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_8bc54b659111fae42da829070ee9dadd8a67eb7d.jar" />
     </item>
     <item
         is-multidex="false"
@@ -183,21 +183,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/otrebla/.android/build-cache/d4a673ab77df3a6e494ec5d4d72b4a9308973913/output/jars/classes.jar"
+        jar="/home/otrebla/.android/build-cache/90a9755be26b3f5c6f8161a7608e1bb9783e8f66/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="28.0.0"
-        sha1="d8ec04dc91c0c90a0ceeca77c94c8b15cb7f3892">
-        <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_185d71440f3e2dda083ab5ed20826e2f93b55fd1.jar" />
+        sha1="54c67f87c9eb60be5eca37aa7d1a85f7651c4bc1">
+        <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_75b4259e80b7ee231945960517469bca8a077027.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/otrebla/.android/build-cache/12cc47f47ca723d2cdb8393e3ba896e46fa21f2d/output/jars/classes.jar"
+        jar="/home/otrebla/.android/build-cache/6c2c6baaabcdb4ba08c2fd9380e9028285897ed3/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="28.0.0"
-        sha1="4c9dde3866f60967d73035b3445bb0f703429612">
-        <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_2e1a433c84d2d03cb5e4c004ba8031f34770088c.jar" />
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_ee0789459e217279a4c31b7ab782146350a67fda.jar" />
     </item>
 
 </items>
