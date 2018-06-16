@@ -1,10 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/cargaScr.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/creaFondo.cs">
     <Files>
       <File FileName="Assets/scripts/rota.cs" Line="30" Column="1" />
       <File FileName="Assets/scripts/Posicionador.cs" Line="3" Column="19" />
-      <File FileName="Assets/scripts/creaFondo.cs" Line="38" Column="5" />
-      <File FileName="Assets/scripts/cargaScr.cs" Line="67" Column="38" />
+      <File FileName="Assets/scripts/creaFondo.cs" Line="38" Column="27" />
+      <File FileName="Assets/scripts/cargaScr.cs" Line="89" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

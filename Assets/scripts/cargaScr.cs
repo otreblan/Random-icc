@@ -24,10 +24,11 @@ public class cargaScr : MonoBehaviour {
 	string[] nombres;
 
 	bool memeEnPantalla = false;
+	bool cargaMemeCorriendo;
 
 	// Use this for initialization
 	IEnumerator Start () {
-		memes = new Queue<Sprite>(10);
+		memes = new Queue<Sprite>(2);
 
 		storage = Firebase.Storage.FirebaseStorage.DefaultInstance;
 		imaReference = storage.GetReferenceFromUrl("gs://randomapp-dd930.appspot.com/Imagenes");
@@ -38,7 +39,7 @@ public class cargaScr : MonoBehaviour {
 		textReference.GetDownloadUrlAsync().ContinueWith((Task<System.Uri> task) => {
             if (!task.IsFaulted && !task.IsCanceled)
             {
-                Debug.Log("Download URL: " + task.Result);
+                //Debug.Log("Download URL: " + task.Result);
                 // ... now download the file via WWW or UnityWebRequest.
 				wWWText = new WWW(System.Convert.ToString(task.Result));
             }
@@ -56,42 +57,47 @@ public class cargaScr : MonoBehaviour {
 
 
 	// Update is called once per frame
-	public void memeSiguente(){
-		StartCoroutine(cargaMeme());
+	public void memeSiguente(){      
 		if (!memeEnPantalla)
 		{
-			StartCoroutine(cambiaFondo());
+			StartCoroutine(cargaMeme());
+			cambiaFondo();
 		}
-		else
+		else if (!cargaMemeCorriendo)
 		{
+			StartCoroutine(cargaMeme());
 			canvasAnimator.Play("cambiaMeme");
 
 		}
 	}
 
 	IEnumerator cargaMeme(){
-		//print(1);
+		
+		cargaMemeCorriendo = true;
 		yield return new WaitForSeconds(0.5f);
 		yield return new WaitUntil(() => memes.Count > 0);
-		//creaFondo.cambiaMeme = false;
-		print(2);
+
         image.sprite = memes.Dequeue();
-		StartCoroutine(cargaImagen());
+
+		yield return new WaitForSeconds(0.5f);
+		cargaMemeCorriendo = false;
 	}
 
 
-	IEnumerator cambiaFondo(){
+	void cambiaFondo(){
 		//Esto cambia los sprites de la cosas del fondo a la versión borrosa
-		GameObject[] fondos = GameObject.FindGameObjectsWithTag("Fondo");
-		yield return new WaitUntil(() => fondos != null);
-		foreach (GameObject fondo in fondos)
+
+		//GameObject[] fondos = GameObject.FindGameObjectsWithTag("Fondo");
+		//yield return new WaitUntil(() => fondos != null);
+
+		foreach (GameObject fondo in creaFondo.fondosArr)
 		{
 			Image fondoImage = fondo.GetComponent<Image>();
 			fondoImage.sprite = spriteFondoBlur;
 			fondoImage.SetNativeSize();
 		}
 		memeEnPantalla = true;
-		print(memeEnPantalla);
+		//print(memeEnPantalla);
     }
 
 
@@ -105,7 +111,7 @@ public class cargaScr : MonoBehaviour {
 		imaReferen.GetDownloadUrlAsync().ContinueWith((Task<System.Uri> task) => {
             if (!task.IsFaulted && !task.IsCanceled)
             {
-                Debug.Log("Download URL: " + task.Result);
+                //Debug.Log("Download URL: " + task.Result);
                 // ... now download the file via WWW or UnityWebRequest.
                 wWW = new WWW(System.Convert.ToString(task.Result));
             }
@@ -115,9 +121,8 @@ public class cargaScr : MonoBehaviour {
         yield return new WaitUntil(() => wWW.isDone);
 
         memes.Enqueue(Sprite.Create(wWW.texture, new Rect(0, 0, wWW.texture.width, wWW.texture.height), new Vector2(0.0f, 0.0f)));
-		if (memes.Count < 10)
-		{
-			StartCoroutine(cargaImagen());
-		}
+
+		yield return new WaitUntil(() => memes.Count < 2);
+		StartCoroutine(cargaImagen());
 	}
 }

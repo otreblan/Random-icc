@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Jun 14 20:46:00 PET 2018
+#Sat Jun 16 11:07:24 PET 2018
 14.set=ANDROID_RESOURCE
 180.file=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png
 118.set=NATIVE_RESOURCE
@@ -50,12 +50,12 @@
 21.base=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/assets/release
 17.set=ASSET
 73.base=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/assets/release
-204.file=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable-hdpi-v4/app_icon.png
+204.file=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable/common_google_signin_btn_icon_disabled.xml
 127.file=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable-xhdpi-v4/notification_bg_normal.9.png
 63.set=ASSET
 6.base=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_
 5.set=ANDROID_RESOURCE
-179.file=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/layout/notification_template_media_custom.xml
+179.file=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable-hdpi-v4/googleg_disabled_color_18.png
 102.file=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/layout-v17/notification_template_lines_media.xml
 154.file=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/layout-v17/notification_template_custom_big.xml
 167.set=ASSET
@@ -105,7 +105,7 @@
 22.base=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/assets/release
 27.set=ANDROID_RESOURCE
 74.base=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/assets/release
-205.file=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png
+205.file=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable-xxxhdpi-v4/app_icon.png
 128.file=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png
 73.set=ASSET
 7.base=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_
@@ -158,7 +158,7 @@
 37.set=ASSET
 75.base=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_
 50.base=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/assets/release
-206.file=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable-xxxhdpi-v4/app_icon.png
+206.file=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png
 129.file=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/layout-v17/notification_template_media.xml
 83.set=ANDROID_RESOURCE
 8.base=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_
@@ -201,7 +201,7 @@
 149.base=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/assets/release
 79.set=ANDROID_RESOURCE
 201.base=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_
-70.file=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/layout/notification_template_big_media_custom.xml
+70.file=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png
 124.base=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/assets/release
 145.file=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png
 176.base=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/assets/release
@@ -310,7 +310,7 @@
 97.file=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/assets/release/bin/Data/Managed/UnityEngine.Physics2DModule.dll
 20.file=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable-ldpi-v4/app_icon_round.png
 203.base=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_
-72.file=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png
+72.file=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/layout/notification_template_big_media_custom.xml
 126.base=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_
 178.base=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_
 101.base=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_
@@ -574,7 +574,7 @@ count=210
 43.set=ANDROID_RESOURCE
 4.base=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_
 177.file=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable-xxhdpi-v4/app_icon.png
-100.file=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable/notification_icon_background.xml
+100.file=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable/common_google_signin_btn_text_dark_normal.xml
 147.set=JAVA_RESOURCE
 152.file=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/assets/release/bin/Data/Managed/UnityEngine.Timeline.dll
 200.set=ASSET
@@ -623,11 +623,11 @@ count=210
 20.base=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_
 72.base=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_
 190.set=ANDROID_RESOURCE
-203.file=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable/common_google_signin_btn_icon_disabled.xml
+203.file=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable-hdpi-v4/app_icon.png
 126.file=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png
 53.set=JAVA_RESOURCE
 5.base=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_
-178.file=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable-hdpi-v4/googleg_disabled_color_18.png
-101.file=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable/common_google_signin_btn_text_dark_normal.xml
+178.file=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/layout/notification_template_media_custom.xml
+101.file=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable/notification_icon_background.xml
 153.file=/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/resources-release.ap_/resources.arsc
 157.set=ASSET
