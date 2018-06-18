@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-/home/otrebla/git/Random-icc/Apks/pruebas00.25.apk
+/home/otrebla/git/Random-icc/Apks/pruebas00.26.apk
 SceneListBegin?
 Assets/Scenes/SampleScene.unity
 SceneListEnd?

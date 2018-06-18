@@ -65,10 +65,10 @@ android {
 		targetSdkVersion 27
 		applicationId 'com.DefaultCompany.randomApp'
 		ndk {
-			abiFilters 'armeabi-v7a', 'x86'
+			abiFilters 'armeabi-v7a'
 		}
 		versionCode	1
-		versionName	'0.1.025'
+		versionName	'0.1.026'
 	}
 
 	lintOptions {
@@ -96,7 +96,6 @@ android {
 	}
     packagingOptions {
         doNotStrip "*/armeabi-v7a/*.so"
-        doNotStrip "*/x86/*.so"
     }
 
 }
