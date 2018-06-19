@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.DefaultCompany.randomApp"
-    android:installLocation="auto"
+    android:installLocation="preferExternal"
     android:versionCode="1"
     android:versionName="0.1.026" >
 
@@ -65,7 +65,7 @@
 
         <meta-data
             android:name="unity.build-id"
-            android:value="ab4c2c09-1579-43c1-b20f-94b32144dfa5" />
+            android:value="1b38bdac-e426-401f-b982-777319549708" />
         <meta-data
             android:name="unity.splash-mode"
             android:value="0" />

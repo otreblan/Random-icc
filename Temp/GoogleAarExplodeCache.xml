@@ -220,22 +220,22 @@
     <ignoredVersion />
   </explodeData>
   <explodeData>
-    <aar>com.google.firebase.firebase-storage-unity-4.5.2</aar>
-    <modificationTime>2018-06-18T14:14:16.0000000-05:00</modificationTime>
+    <aar>com.google.firebase.firebase-analytics-unity-4.5.2</aar>
+    <modificationTime>2018-06-18T14:14:31.0000000-05:00</modificationTime>
     <explode>true</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
-    <path>Assets/Plugins/Android/com.google.firebase.firebase-storage-unity-4.5.2.aar</path>
+    <path>Assets/Plugins/Android/com.google.firebase.firebase-analytics-unity-4.5.2.aar</path>
     <targetAbi>armv7</targetAbi>
     <gradleBuildEnabled>true</gradleBuildEnabled>
     <gradleExport>false</gradleExport>
     <ignoredVersion />
   </explodeData>
   <explodeData>
-    <aar>com.google.firebase.firebase-auth-unity-4.5.2</aar>
-    <modificationTime>2018-06-18T14:14:15.0000000-05:00</modificationTime>
+    <aar>com.google.firebase.firebase-app-unity-4.5.2</aar>
+    <modificationTime>2018-06-18T14:14:32.0000000-05:00</modificationTime>
     <explode>true</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
-    <path>Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-4.5.2.aar</path>
+    <path>Assets/Plugins/Android/com.google.firebase.firebase-app-unity-4.5.2.aar</path>
     <targetAbi>armv7</targetAbi>
     <gradleBuildEnabled>true</gradleBuildEnabled>
     <gradleExport>false</gradleExport>
@@ -264,11 +264,11 @@
     <ignoredVersion />
   </explodeData>
   <explodeData>
-    <aar>com.google.firebase.firebase-app-unity-4.5.2</aar>
-    <modificationTime>2018-06-18T14:14:15.0000000-05:00</modificationTime>
+    <aar>com.google.firebase.firebase-auth-unity-4.5.2</aar>
+    <modificationTime>2018-06-18T14:14:33.0000000-05:00</modificationTime>
     <explode>true</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
-    <path>Assets/Plugins/Android/com.google.firebase.firebase-app-unity-4.5.2.aar</path>
+    <path>Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-4.5.2.aar</path>
     <targetAbi>armv7</targetAbi>
     <gradleBuildEnabled>true</gradleBuildEnabled>
     <gradleExport>false</gradleExport>
@@ -276,8 +276,8 @@
   </explodeData>
   <explodeData>
     <aar>com.google.firebase.firebase-common-12.0.1</aar>
-    <modificationTime>2018-06-18T14:14:15.0000000-05:00</modificationTime>
-    <explode>true</explode>
+    <modificationTime>2018-06-18T14:14:33.0000000-05:00</modificationTime>
+    <explode>false</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/com.google.firebase.firebase-common-12.0.1.aar</path>
     <targetAbi>universal</targetAbi>
@@ -298,7 +298,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.firebase.firebase-core-12.0.1</aar>
-    <modificationTime>2018-06-18T14:14:15.0000000-05:00</modificationTime>
+    <modificationTime>2018-06-18T14:14:34.0000000-05:00</modificationTime>
     <explode>true</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/com.google.firebase.firebase-core-12.0.1.aar</path>
@@ -309,8 +309,8 @@
   </explodeData>
   <explodeData>
     <aar>com.google.firebase.firebase-iid-12.0.1</aar>
-    <modificationTime>2018-06-18T14:14:15.0000000-05:00</modificationTime>
-    <explode>true</explode>
+    <modificationTime>2018-06-18T14:14:35.0000000-05:00</modificationTime>
+    <explode>false</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
     <path>Assets/Plugins/Android/com.google.firebase.firebase-iid-12.0.1.aar</path>
     <targetAbi>universal</targetAbi>
@@ -374,11 +374,11 @@
     <ignoredVersion />
   </explodeData>
   <explodeData>
-    <aar>com.google.firebase.firebase-analytics-unity-4.5.2</aar>
-    <modificationTime>2018-06-18T14:14:15.0000000-05:00</modificationTime>
+    <aar>com.google.firebase.firebase-storage-unity-4.5.2</aar>
+    <modificationTime>2018-06-18T14:14:35.0000000-05:00</modificationTime>
     <explode>true</explode>
     <bundleId>com.DefaultCompany.randomApp</bundleId>
-    <path>Assets/Plugins/Android/com.google.firebase.firebase-analytics-unity-4.5.2.aar</path>
+    <path>Assets/Plugins/Android/com.google.firebase.firebase-storage-unity-4.5.2.aar</path>
     <targetAbi>armv7</targetAbi>
     <gradleBuildEnabled>true</gradleBuildEnabled>
     <gradleExport>false</gradleExport>

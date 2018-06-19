@@ -1,46 +1,46 @@
 [
     {
         "merged": "/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi-v4/googleg_standard_color_18.png",
-        "source": "/home/otrebla/.android/build-cache/9ffc493d6ca02030c43d2dcbde1cda49d1953297/output/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+        "source": "/home/otrebla/.android/build-cache/a50a8e760865178ead07378ad2f13ab8b857c12f/output/res/drawable-mdpi-v4/googleg_standard_color_18.png"
     },
     {
         "merged": "/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi-v4/googleg_disabled_color_18.png",
-        "source": "/home/otrebla/.android/build-cache/9ffc493d6ca02030c43d2dcbde1cda49d1953297/output/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+        "source": "/home/otrebla/.android/build-cache/a50a8e760865178ead07378ad2f13ab8b857c12f/output/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
     },
     {
         "merged": "/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_normal.9.png",
-        "source": "/home/otrebla/.android/build-cache/8d4ca90f7891e55b4b905edde472024da7420823/output/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+        "source": "/home/otrebla/.android/build-cache/e7282e0a190af92b29b15e2d4ed30c68c0db1c23/output/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
     },
     {
         "merged": "/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
-        "source": "/home/otrebla/.android/build-cache/9ffc493d6ca02030c43d2dcbde1cda49d1953297/output/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+        "source": "/home/otrebla/.android/build-cache/a50a8e760865178ead07378ad2f13ab8b857c12f/output/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
-        "source": "/home/otrebla/.android/build-cache/8d4ca90f7891e55b4b905edde472024da7420823/output/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+        "source": "/home/otrebla/.android/build-cache/e7282e0a190af92b29b15e2d4ed30c68c0db1c23/output/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
         "merged": "/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
-        "source": "/home/otrebla/.android/build-cache/8d4ca90f7891e55b4b905edde472024da7420823/output/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+        "source": "/home/otrebla/.android/build-cache/e7282e0a190af92b29b15e2d4ed30c68c0db1c23/output/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
-        "source": "/home/otrebla/.android/build-cache/9ffc493d6ca02030c43d2dcbde1cda49d1953297/output/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+        "source": "/home/otrebla/.android/build-cache/a50a8e760865178ead07378ad2f13ab8b857c12f/output/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
-        "source": "/home/otrebla/.android/build-cache/8d4ca90f7891e55b4b905edde472024da7420823/output/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+        "source": "/home/otrebla/.android/build-cache/e7282e0a190af92b29b15e2d4ed30c68c0db1c23/output/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
-        "source": "/home/otrebla/.android/build-cache/9ffc493d6ca02030c43d2dcbde1cda49d1953297/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+        "source": "/home/otrebla/.android/build-cache/a50a8e760865178ead07378ad2f13ab8b857c12f/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
-        "source": "/home/otrebla/.android/build-cache/9ffc493d6ca02030c43d2dcbde1cda49d1953297/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+        "source": "/home/otrebla/.android/build-cache/a50a8e760865178ead07378ad2f13ab8b857c12f/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal.9.png",
-        "source": "/home/otrebla/.android/build-cache/8d4ca90f7891e55b4b905edde472024da7420823/output/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+        "source": "/home/otrebla/.android/build-cache/e7282e0a190af92b29b15e2d4ed30c68c0db1c23/output/res/drawable-mdpi-v4/notification_bg_normal.9.png"
     }
 ]
