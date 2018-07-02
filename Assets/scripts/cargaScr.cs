@@ -40,6 +40,19 @@ public class cargaScr : MonoBehaviour {
 
 		textReference = imaReference.Child("INDEX.txt");
 
+		//PRUEBASPRUEBASPRUEBASPRUEBASPRUEBASPRUEBASPRUEBASPRUEBAS
+
+		Firebase.Storage.StorageReference video = vidReference.Child("Mobile Suit Gundam Iron Blooded Orphans (Season 2) - Opening 3 (HD) - Rage of Dust.mp4");
+		string camino = Application.persistentDataPath+"/gundam.mp4";
+		video.GetFileAsync(camino).ContinueWith(task => {
+            if (!task.IsFaulted && !task.IsCanceled)
+            {
+                Debug.Log("File downloaded.");
+            }
+        });
+        
+		//PRUEBASPRUEBASPRUEBASPRUEBASPRUEBASPRUEBASPRUEBASPRUEBAS
+
 		textReference.GetDownloadUrlAsync().ContinueWith((Task<System.Uri> task) => {
             if (!task.IsFaulted && !task.IsCanceled)
             {
@@ -68,9 +81,17 @@ public class cargaScr : MonoBehaviour {
 		}
 		else if (!cargaMemeCorriendo)
 		{
-			StartCoroutine(cargaMeme());
-			canvasAnimator.Play("cambiaMeme");
-
+			switch (Random.Range(0, 20)){
+				case 1:
+					//aquí va el video
+					//Handheld.PlayFullScreenMovie();
+					Handheld.PlayFullScreenMovie(Application.persistentDataPath + "/gundam.mp4", Color.black, FullScreenMovieControlMode.Full, FullScreenMovieScalingMode.AspectFit);
+					break;
+				default:
+				    StartCoroutine(cargaMeme());
+                    canvasAnimator.Play("cambiaMeme");
+					break;
+			}
 		}
 	}
 

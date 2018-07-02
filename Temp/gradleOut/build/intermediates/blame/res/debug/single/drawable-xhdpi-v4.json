@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/home/otrebla/.android/build-cache/4708d2db3b2e316a0f7cfc22b32a2ed73a9564e4/output/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/home/otrebla/.android/build-cache/4708d2db3b2e316a0f7cfc22b32a2ed73a9564e4/output/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/merged/debug/drawable-xhdpi-v4/googleg_standard_color_18.png",
+        "source": "/home/otrebla/.android/build-cache/59b0bddb6ba8d1e61c65c42af88f2535da594138/output/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/home/otrebla/.android/build-cache/59b0bddb6ba8d1e61c65c42af88f2535da594138/output/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/home/otrebla/.android/build-cache/4708d2db3b2e316a0f7cfc22b32a2ed73a9564e4/output/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_full_open_on_phone.png",
+        "source": "/home/otrebla/.android/build-cache/59b0bddb6ba8d1e61c65c42af88f2535da594138/output/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_normal.9.png",
+        "source": "/home/otrebla/.android/build-cache/4708d2db3b2e316a0f7cfc22b32a2ed73a9564e4/output/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/merged/debug/drawable-xhdpi-v4/googleg_disabled_color_18.png",
+        "source": "/home/otrebla/.android/build-cache/59b0bddb6ba8d1e61c65c42af88f2535da594138/output/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/home/otrebla/.android/build-cache/59b0bddb6ba8d1e61c65c42af88f2535da594138/output/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/home/otrebla/.android/build-cache/59b0bddb6ba8d1e61c65c42af88f2535da594138/output/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/home/otrebla/.android/build-cache/59b0bddb6ba8d1e61c65c42af88f2535da594138/output/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/home/otrebla/git/Random-icc/Temp/gradleOut/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/home/otrebla/.android/build-cache/4708d2db3b2e316a0f7cfc22b32a2ed73a9564e4/output/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    }
+]
