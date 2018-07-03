@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;//  <--- Sin esto el script no funciona
 using System.Threading.Tasks;
+using System.IO;
 using UnityEngine.Networking;
 
 public class cargaScr : MonoBehaviour {
@@ -44,13 +45,16 @@ public class cargaScr : MonoBehaviour {
 
 		Firebase.Storage.StorageReference video = vidReference.Child("Mobile Suit Gundam Iron Blooded Orphans (Season 2) - Opening 3 (HD) - Rage of Dust.mp4");
 		string camino = Application.persistentDataPath+"/gundam.mp4";
-		video.GetFileAsync(camino).ContinueWith(task => {
-            if (!task.IsFaulted && !task.IsCanceled)
-            {
-                Debug.Log("File downloaded.");
-            }
-        });
-        
+		if (!File.Exists(camino))
+		{
+			video.GetFileAsync(camino).ContinueWith(task =>
+			{
+				if (!task.IsFaulted && !task.IsCanceled)
+				{
+					Debug.Log("File downloaded.");
+				}
+			});
+		}
 		//PRUEBASPRUEBASPRUEBASPRUEBASPRUEBASPRUEBASPRUEBASPRUEBAS
 
 		textReference.GetDownloadUrlAsync().ContinueWith((Task<System.Uri> task) => {

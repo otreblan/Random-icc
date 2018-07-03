@@ -4,7 +4,7 @@
       <File FileName="Assets/scripts/rota.cs" Line="30" Column="1" />
       <File FileName="Assets/scripts/Posicionador.cs" Line="3" Column="19" />
       <File FileName="Assets/scripts/creaFondo.cs" Line="38" Column="27" />
-      <File FileName="Assets/scripts/cargaScr.cs" Line="89" Column="12" />
+      <File FileName="Assets/scripts/cargaScr.cs" Line="57" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
